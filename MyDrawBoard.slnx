@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MyDrawBoard/MyDrawBoard.vcxproj" />
+  <Project Path="MyDrawBoardTests/MyDrawBoardTests.vcxproj" Id="e1d4d403-39a3-478d-a4c4-b8ef94e571f5" />
+</Solution>
