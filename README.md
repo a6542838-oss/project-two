@@ -21,11 +21,12 @@
 
 ## 🚀 如何构建 (Build)
 
-1.  使用 Visual Studio 2022 打开 `MyDrawBoard.sln`。
+1.  使用 Visual Studio 2026 打开 `MyDrawBoard.sln`。
 2.  确保已安装 "C++ MFC for latest v143 build tools"。
 3.  选择配置 `Debug x64` 或 `Release x64`。
 4.  点击 `Build Solution` (F7)。
 5.  点击 `Run` (F5)。
 
 ## ⚠️ AI 辅助声明
+
 本项目部分核心逻辑（工厂模式、序列化）由 AI 辅助生成，所有生成代码均已通过人工审查、单元测试验证，并添加了 RAII 资源管理保护。
